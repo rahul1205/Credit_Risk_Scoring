@@ -2,7 +2,6 @@
 """
 Created DateTime Tue, Jun 17 2020 12:10:00 
 
-@author: Ayan Tiwari
 """
 
 from flask import Flask, request, jsonify, render_template, Response
